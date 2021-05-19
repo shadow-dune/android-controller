@@ -18,3 +18,7 @@ This is a python script to control android devices (phones/TVs) using adb over L
 2) Download the python file, open it, and change the two variables declared in the beginning
 
 3) Run the file with python. Supported commands are declared in class remote -> commandValues
+
+## Uses:
+1) This program can be integrated with other python projects to increase its functionality
+2) It is a simple way to control Android TVs from any platform
