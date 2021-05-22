@@ -3,11 +3,11 @@
 import subprocess
 
 
-# ENTER IP ADDRESS HERE
-DEVICE_IP = ''
+# get the ip address from input
+DEVICE_IP = input('Enter ip address of the device: ')
 
-# ENTER THE DIRECTORY IN WHICH ADB IS INSTALLED HERE
-ADB_LOCATION = ''
+# get the directory from input
+ADB_LOCATION = input('Enter the directory of adb install (format - C:\\first directory\\second directory):')
 
 
 # variable to store the string inputted by the user
